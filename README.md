@@ -1,5 +1,7 @@
 # Ocean Wave Height Analysis
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A scientific computing project demonstrating wave height simulation, analysis, and visualization using Python.
 
 **Author:** Aakriti  
